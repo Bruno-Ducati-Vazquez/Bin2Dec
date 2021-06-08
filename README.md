@@ -1,12 +1,13 @@
 # Bin2Dec
- Um projeto simples para aprender javascript no front-end
 
 ## Tecnologias Utilizadas
 
-<h3>HTML, CSS, Javascript</h3>
+<h4>HTML, CSS, Javascript</h4>
 
 ## Imagens do Projeto
 
-<p align="center">
- <img width="470" src="Bin2Dec/images/to_readme/Bin2Dec.png ">
-</p>
+![Bin2Dec](https://user-images.githubusercontent.com/78651599/121118037-83f64c80-c7ef-11eb-808c-87307176a568.jpg)
+
+## Descrição
+
+Um projeto simples para aprender javascript no front-end
